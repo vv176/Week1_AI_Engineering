@@ -1,0 +1,16 @@
+# Secrets — never commit
+.env
+.env.*
+*.key
+
+# Generated lesson material
+*.pdf
+
+# OS noise
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
